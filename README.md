@@ -27,3 +27,9 @@ ngrok for https tunneling
 3. Open windows command prompt, go to that folder and run this command: ngrok http 80000
 
 NOTE: ngrok can timeout. you need to restart the session if you see session expired message.
+
+in this folders contain 4 files
+1.Dialogflow_assets:dialogflow contains text to create  intent in chatbot
+2.db: contains Data with the help of data connect database to dialogbox using python
+3.Backend: contains  main.py it was code for chatbot
+4.Frontend: contains html css template for website along  with chatbot   
